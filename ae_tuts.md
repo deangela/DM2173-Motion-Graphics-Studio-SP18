@@ -13,6 +13,7 @@ I feel strongly that AETUTS is the simplest, most direct, and quickest way to un
     
     * Pre-comp
 
+
 * <a href="http://ae.tutsplus.com/tutorials/beginner-series/after-effects-for-beginners-effects-animation/" target="_blank">AETUTS: After Effects for Beginners: Effects & Animation</a>
     
     * Parenting
@@ -21,6 +22,7 @@ I feel strongly that AETUTS is the simplest, most direct, and quickest way to un
     * Masks
     * Transparency
     * Transfer Modes
+
 
 * <a href="http://ae.tutsplus.com/tutorials/beginner-series/after-effects-for-beginners-advanced-techniques/" target="_blank">AETUTS: After Effects for Beginners: Advanced Techniques</a>
 

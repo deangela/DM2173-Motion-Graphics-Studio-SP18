@@ -11,8 +11,8 @@
 
 <table>
 <tr>
-<th>wk</th>
-<th>Tuesdays (Due on Date Listed)</th>
+<td>wk</td>
+<td>Tuesdays (Due on Date Listed)</td>
 </tr>
 
 <tr>
@@ -22,24 +22,27 @@
 </tr>
 
 <tr>
-<td>1 <strong>Jan 23</strong></td>
+<td><strong>Jan 23</strong></td>
 <td>
 <ul>
-<li>Do <a href="https://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/after_effects_diary.html">Lynda.com Tutorials and Document in Your After Effects Diary</a></li>
-<li>Overview of the Course</li>
-<li>Motion Graphics Matrix from Motion Design by Matt Woolman</li>
-<li>Class Exercise: Group Word Lists for Time and Space</li>
+<li>Review <a href="syllabus.md">Syllabus</a></li>
+<li>Discuss <a href="success.md">Success Checklist</a></li>
+<li>Discuss <a href="https://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/after_effects_diary.html">After Effects Diary</a></li>
+<li>Discuss After Effects Tutorials: [AE TUTS](ae_tuts.md) and [http://nyu.edu/lynda](http://nyu.edu/lynda)
 <li>Discuss importance of <a href="https://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/show_and_tells.html">Show &amp; Tells</a></li>
+<li>Class Exercise: Group Word Lists for Time and Space</li>
+<li>Motion Graphics Matrix from Motion Design by Matt Woolman</li>
+<li>Motion Graphics Concepts</li>
+<li>16:9 Aspect Ratio</li>
 </ul></td>
 </tr>
 
 <tr>
-<td>2 <strong>Jan 30</strong></td>
+<td><strong>Jan 30</strong></td>
 <td>
 <ul>
 <li><a href="show_and_tells.md">Show &amp; Tells</a></li>
-<li>Motion Graphics Concepts</li>
-<li>16:9 Aspect Ratio</li>
+
 <li>After Effects Demo</li>
     <ul>
     <li><a href="http://ae.tutsplus.com/tutorials/beginner-series/after-effects-for-beginners-getting-started/" target="_blank">AETUTS: After Effects for Beginners: Getting Started</a></li>
@@ -54,7 +57,7 @@
 </tr>
 
 <tr>
-<td>3 <strong>Feb 6</strong></td>
+<td><strong>Feb 6</strong></td>
 <td valign="top">
 <ul>
 <li><a href="projects_overeffects.md">Over Effects</a></li>
@@ -69,7 +72,7 @@
 </tr>
 
 <tr>
-<td>4 <strong>Feb 13</strong></td>
+<td><strong>Feb 13</strong></td>
 <td>
 <ul>
 <li>Discuss <a href="success.md">Success Checklist</a></li>
@@ -93,7 +96,7 @@
 </tr>
 
 <tr>
-<td>5 <strong>Feb 20</strong></td>
+<td><strong>Feb 20</strong></td>
 <td>
 <ul>
 <li><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a></li>
@@ -101,7 +104,7 @@
 </tr>
 
 <tr>
-<td>6 <strong>Feb 27</strong></td>
+<td><strong>Feb 27</strong></td>
 <td>
 <ul><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Redux
 <li>By 10am today, list your top 3 choices for the project swap in the class channel on slack. In order of your preference, 1 being your first choice.</li>
@@ -111,7 +114,7 @@
 </tr>
 
 <tr>
-<td>7 <strong>Mar 6</strong></td>
+<td><strong>Mar 6</strong></td>
 <td>
 <ul>
 <li><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Swap Redux
@@ -128,12 +131,12 @@
 </tr>
 
 <tr>
-<td>8 <strong>Mar 20</strong></td>
+<td><strong>Mar 20</strong></td>
 <td><a href="projects_retro.md">Retro</a></td>
 </tr>
 
 <tr>
-<td>9 <strong>Mar 27</strong></td>
+<td><strong>Mar 27</strong></td>
 <td><strong>
 <ul>
 <li>MIDTERM: <a href="projects_retro.md">Retro</a></li></strong>
@@ -159,12 +162,12 @@
 </tr>
 
 <tr>
-<td>10 <strong>Apr 3</strong></td>
+<td><strong>Apr 3</strong></td>
 <td><a href="projects_titles.md">Titles</a></td>
 </tr>
 
 <tr>
-<td>11 <strong>Apr 10</strong></td>
+<td><strong>Apr 10</strong></td>
 <td>
 <ul>
 <li><a href="projects_titles.md">Titles</a> Redux</li>
@@ -178,7 +181,7 @@
 </tr>
 
 <tr>
-<td>12 <strong>Apr 24</strong></td>
+<td><strong>Apr 24</strong></td>
 <td>
 <ul>
 <li><a href="projects_endtag.md">End Tag</a></li>
@@ -186,7 +189,7 @@
 </tr>
 
 <tr>
-<td>13 <strong>May 1</strong></td>
+<td><strong>May 1</strong></td>
 <td>
 <ul>
 <li><a href="projects_endtag.md">End Tag</a> Redux</li>
@@ -195,7 +198,7 @@
 </tr>
 
 <tr>
-<td>14 <strong>May 8</strong></td>
+<td><strong>May 8</strong></td>
 <td><strong>FINAL: <a href="projects_demo_reel.md">Demo Reel</a></strong></td>
 </tr>
 
@@ -206,7 +209,7 @@
 
 <tr>
 <td></td>
-<td><strong><p>May 10 (Wed), May 11 (Thu), May 11 (Thu), May 12 (Fri), May 14 (Mon), or May 15 (Tue)</p>Final one on one appointments
+<td><strong><p>May 9 (Wed), May 10 (Thu), May 11 (Thu), May 12 (Fri), May 14 (Mon), or May 15 (Tue)</p>Final one on one appointments
 <ul>
 <li>Schedule at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a></li>
 <li><a href="end_of_semester_deliverables.md">End of Semester Deliverables Due</a></li>
