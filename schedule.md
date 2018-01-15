@@ -11,17 +11,19 @@
 
 <table>
 <tr>
-<th width="4%">wk</th>
-<th width="96%">Tuesdays (Due on Date Listed)</th>
+<th>wk</th>
+<th>Tuesdays (Due on Date Listed)</th>
 </tr>
+
 <tr>
 <td></td>
 <td><strong><a href="mgs_pre_work.md">MGS Pre-work</a></strong></td>
 <td></td>
 </tr>
+
 <tr>
-<td>1</td>
-<td><strong><p>Jan 23</p><i>NO CLASS Professor at conference</i></strong>
+<td>1 <strong>Jan 23</strong></td>
+<td>
 <ul>
 <li>Do <a href="https://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/after_effects_diary.html">Lynda.com Tutorials and Document in Your After Effects Diary</a></li>
 <li>Overview of the Course</li>
@@ -30,9 +32,10 @@
 <li>Discuss importance of <a href="https://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/show_and_tells.html">Show &amp; Tells</a></li>
 </ul></td>
 </tr>
+
 <tr>
-<td>2</td>
-<td><p>Jan 30</p>
+<td>2 <strong>Jan 30</strong></td>
+<td>
 <ul>
 <li><a href="show_and_tells.md">Show &amp; Tells</a></li>
 <li>Motion Graphics Concepts</li>
@@ -46,12 +49,14 @@
 </tr>
 
 <tr>
-<td><td><strong><p>Feb 4 (Sun)</p><i>Last day to drop Spring 2018 classes and not receive a grade of "W"</i></strong></td><td></td>
+<td><strong>Feb 4 (Sun)</strong></td>
+<td><strong><i>Last day to drop Spring 2018 classes and not receive a grade of "W"</i></strong></td>
 </tr>
 
 <tr>
-<td>3</td>
-<td valign="top"><p>Feb 6</p><ul>
+<td>3 <strong>Feb 6</strong></td>
+<td valign="top">
+<ul>
 <li><a href="projects_overeffects.md">Over Effects</a></li>
 <li>Watch</li>
     <ul>
@@ -64,8 +69,8 @@
 </tr>
 
 <tr>
-<td>4</td>
-<td><p>Feb 13</p>
+<td>4 <strong>Feb 13</strong></td>
+<td>
 <ul>
 <li>Discuss <a href="success.md">Success Checklist</a></li>
 <li><a href="projects_overeffects.md">Over Effects</a> Redux</li>
@@ -88,16 +93,17 @@
 </tr>
 
 <tr>
-<td>5</td>
-<td><p>Feb 20</p>
+<td>5 <strong>Feb 20</strong></td>
+<td>
 <ul>
 <li><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a></li>
 </ul></td>
 </tr>
 
 <tr>
-<td>6</td>
-<td><p>Feb 27</p><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Redux
+<td>6 <strong>Feb 27</strong></td>
+<td>
+<ul><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Redux
 <li>By 10am today, list your top 3 choices for the project swap in the class channel on slack. In order of your preference, 1 being your first choice.</li>
 <li><a href="ae_tuts_homework.md">AETUTS Homework</a></li>
 <li><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Swap Meet</li>
@@ -105,8 +111,10 @@
 </tr>
 
 <tr>
-<td>7</td>
-<td><p>Mar 6</p><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Swap Redux
+<td>7 <strong>Mar 6</strong></td>
+<td>
+<ul>
+<li><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Swap Redux
 <ul>
 <li><a href="http://www.artofthetitle.com/feature/10-women-of-title-design-part-three/">Art of The Title celebrates Int'l Women's Day with 10 Women of Title Design – part three!</a></li>
 <li><a href="projects_retro.md">Retro</a>: <a href="process_documentation.md">Research and Design</a></li>
@@ -115,20 +123,20 @@
 
 <tr>
 <tr>
-<td></td>
-<td valign="top"><strong><p>Mar 13</p><i>NO CLASS</i> NYU Spring Break</strong></td>
+<td><strong>Mar 13</strong></td>
+<td valign="top"><strong><i>NO CLASS</i> NYU Spring Break</strong></td>
 </tr>
 
 <tr>
-<td>8</td>
-<td><p>Mar 20</p><a href="projects_retro.md">Retro</a></td>
+<td>8 <strong>Mar 20</strong></td>
+<td><a href="projects_retro.md">Retro</a></td>
 </tr>
 
 <tr>
-<td>9</td>
-<td><strong><p>Mar 27</p>
+<td>9 <strong>Mar 27</strong></td>
+<td><strong>
 <ul>
-<li>MIDTERM: <a href="projects_retro.md">Retro</a></strong></li>
+<li>MIDTERM: <a href="projects_retro.md">Retro</a></li></strong>
 <li><a href="projects_titles.md">Titles</a>: <a href="process_documentation.md">Research and Design</a></li>
 </ul>
 </td>
@@ -146,18 +154,18 @@
 </tr>
 
 <tr>
-<td></td>
-<td><strong><p>Mar 30 (Fri)</p><i>Last Day to Withdraw</i></strong></td>
+<td><strong>Mar 30 (Fri)</strong></td>
+<td><strong><i>Last Day to Withdraw</i></strong></td>
 </tr>
 
 <tr>
-<td>10</td>
-<td><p>Apr 3</p><a href="projects_titles.md">Titles</a></td>
+<td>10 <strong>Apr 3</strong></td>
+<td><a href="projects_titles.md">Titles</a></td>
 </tr>
 
 <tr>
-<td>11</td>
-<td><p>Apr 10</p>
+<td>11 <strong>Apr 10</strong></td>
+<td>
 <ul>
 <li><a href="projects_titles.md">Titles</a> Redux</li>
 <li><a href="projects_endtag.md">End Tag</a>: <a href="process_documentation.md">Research and Design</a></li>
@@ -165,21 +173,21 @@
 </tr>
 
 <tr>
-<td></td>
-<td><strong><p>Apr 17</p><i>NO CLASS Professor at conference</i></strong></td>
+<td><strong>Apr 17</strong></td>
+<td><strong><i>NO CLASS Professor at conference</i></strong></td>
 </tr>
 
 <tr>
-<td>12</td>
-<td><p>Apr 24</p>
+<td>12 <strong>Apr 24</strong></td>
+<td>
 <ul>
 <li><a href="projects_endtag.md">End Tag</a></li>
 </ul></td>
 </tr>
 
 <tr>
-<td>13</td>
-<td><p>May 1</p>
+<td>13 <strong>May 1</strong></td>
+<td>
 <ul>
 <li><a href="projects_endtag.md">End Tag</a> Redux</li>
 <li><a href="projects_demoreel.md">Demo Reel</a>: <a href="process_documentation.md">Research and Design</a></li>
@@ -187,13 +195,13 @@
 </tr>
 
 <tr>
-<td>14</td>
-<td><strong><p>May 8</p>FINAL: <a href="projects_demo_reel.md">Demo Reel</a></strong></td>
+<td>14 <strong>May 8</strong></td>
+<td><strong>FINAL: <a href="projects_demo_reel.md">Demo Reel</a></strong></td>
 </tr>
 
 <tr>
-<td>15</td>
-<td><strong><p>May 15</p>FINAL: <a href="projects_demo_reel.md">Demo Reel</a></strong></td>
+<td>15 <strong>May 15</strong></td>
+<td><strong>FINAL: <a href="projects_demo_reel.md">Demo Reel</a></strong></td>
 </tr>
 
 <tr>
