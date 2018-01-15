@@ -13,31 +13,8 @@
 * Please read carefully before class.
 * Let me know if you find any broken links or typos.
 
-**Adobe After Effects**
-* If you don't already have it, purchase the [student adobe creative cloud option](https://www.adobe.com/creativecloud/buy/students.html?promoid=N7FDRVG6&mv=other) to get Adobe After Effects.
-
-**(After Effects) Tutorials**
+**[After Effects Tutorials and Diary](after_effects_diary.md)**
 * Begin the after effect tutorials IMMEDIATELY before the semester begins so that you can absorb the material and not be distracted by your other classes. After Effects has a steep learning curve for some so I wouldn't wait to begin these tutorials. 
-
-**Choose between AETUTS and Lynda.com:** (I highly recommend AETUTS. It covers everything you need to know clearly and concisely.)
-
-* [AE TUTS](ae_tuts.md)
-
-* Lynda http://nyu.edu/lynda (sign in with your nyu account to get these tutorials for free)
-
-
-Do one or both of these tutorials first
-    * **After Effects CC 2017 Essential Training: The Basics** by Mark Christiansen OR
-    * **After Effects Apprentice 01: CC Pre-Roll** by Chris Meyer OR
-    * **Both** tutorials to get two different voices and approaches
-
-Do the essential training or apprentice series or both second
-    * **After Effects CC Essential Training (2015)** by Ian Robinson OR
-    * **After Effects Apprentice** 01-14 (multiple courses) by Chris Meyer or Trish Meyer OR
-    * **Both** Series to get different voices and approaches
-
-**After Effects Diary**
-* Begin entering entries for the [After Effects Diary](https://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/after_effects_diary.html).
 
 **Required Book**
 * Purchase **Moving Type: Designing for Time and Space** by Matt Woolman & Jeff Bellantoni OR **Motion Design** by Matt Woolman. Both are out of print, but purchase whichever is cheaper on amazon.com or half.com. Do not buy both. There are many on Amazon that will be anywhere from $4 to $21 including shipping.
