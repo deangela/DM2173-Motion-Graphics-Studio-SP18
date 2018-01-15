@@ -197,6 +197,7 @@
 </tr>
 
 <tr>
+<td></td>
 <td><strong><p>May 10 (Wed), May 11 (Thu), May 11 (Thu), May 12 (Fri), May 14 (Mon), or May 15 (Tue)</p>Final one on one appointments
 <ul>
 <li>Schedule at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a></li>
