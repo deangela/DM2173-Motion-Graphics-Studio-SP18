@@ -190,21 +190,12 @@
 
 <tr>
 <td><strong>May 8</strong></td>
-<td><strong>FINAL: <a href="projects_demo_reel.md">Demo Reel</a></strong></td>
+<td><strong><a href="projects_demo_reel.md">Demo Reel</a></strong></td>
 </tr>
 
 <tr>
 <td>15 <strong>May 15</strong></td>
 <td><strong>FINAL: <a href="projects_demo_reel.md">Demo Reel</a></strong></td>
-</tr>
-
-<tr>
-<td></td>
-<td><strong><p>May 9 (Wed), May 10 (Thu), May 11 (Thu), May 12 (Fri), May 14 (Mon), or May 15 (Tue)</p>Final one on one appointments
-<ul>
-<li>Schedule at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a></li>
-<li><a href="end_of_semester_deliverables.md">End of Semester Deliverables Due</a></li>
-</ul></strong></td>
 </tr>
 </table>
 
