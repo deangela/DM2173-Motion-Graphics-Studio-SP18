@@ -100,7 +100,8 @@
 <tr>
 <td><strong>Feb 27</strong></td>
 <td>
-<ul><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Redux
+<ul>
+<li><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Redux</li>
 <li>By noon today, list your top 3 choices for the project swap in the class channel on slack. In order of your preference, 1 being your first choice.</li>
 <li><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Swap Meet</li>
 </ul></td>
@@ -128,22 +129,20 @@
 
 <tr>
 <td><strong>Mar 27</strong></td>
-<td><strong>
+<td>
 <ul>
-<li>MIDTERM: <a href="projects_retro.md">Retro</a></li></strong>
+<strong><li>MIDTERM: <a href="projects_retro.md">Retro</a></li></strong>
 <li><a href="projects_titles.md">Titles</a>: <a href="process_documentation.md">Research and Design</a></li>
 </ul>
 </td>
 </tr>
 
 <tr>
-<td></td>
-<td><strong><p>Mar 28, 29, 30</p>Midterm one on one appointments</strong>
+<td>Mar 28, 29, or 30</td>
+<td><strong>Midterm one on one appointments</strong>
 <ul>
-<li>Schedule at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a></li>
-    <ul>
-    <li><a href="end_of_semester_deliverables.md">Midterm Self Assessment Due</a></li>
-    </ul>
+<li>Schedule at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a>
+<li><a href="end_of_semester_deliverables.md">Midterm Self Assessment Due</a></li>
 </ul></td>
 </tr>
 
@@ -154,7 +153,7 @@
 
 <tr>
 <td><strong>Apr 3</strong></td>
-<td><a href="projects_titles.md">Titles</a></td>
+<td><ul><li><a href="projects_titles.md">Titles</a></li></ul></td>
 </tr>
 
 <tr>
