@@ -101,8 +101,8 @@
 <td><strong>Feb 27</strong></td>
 <td>
 <ul>
-<li><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Redux</li>
 <li>By noon today, list your top 3 choices for the project swap in the class channel on slack. In order of your preference, 1 being your first choice.</li>
+<li><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Redux</li>
 <li><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Swap Meet</li>
 </ul></td>
 </tr>
@@ -153,7 +153,8 @@
 
 <tr>
 <td><strong>Apr 3</strong></td>
-<td><ul><li><a href="projects_titles.md">Titles</a></li></ul></td>
+<td><ul>
+<li><a href="projects_titles.md">Titles</a></li></ul></td>
 </tr>
 
 <tr>
