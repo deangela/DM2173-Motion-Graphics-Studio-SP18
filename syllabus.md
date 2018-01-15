@@ -11,7 +11,7 @@ Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718
 Prerequisite: DM-UY 1123 Visual Foundation Studio
 ```
 
-#### Gitbook Repository: [http://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/](http://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/)
+#### Gitbook Repository: [http://deangela.gitbooks.io/motion-graphics-studio-spring-2018/content/](http://deangela.gitbooks.io/motion-graphics-studio-spring-2018/content/)
 
 #### Course Management Site: [http://bxmc.slack.com](http://bxmc.slack.com)
 
@@ -212,7 +212,7 @@ Any printed assignments should always contain the following and uploaded to the 
 * Date
 * Your first and last name
 * Motion Graphics Studio or MGS
-* Spring 2017
+* Spring 2018
 * Title of project or assignment
 
 Written assignments will be assigned frequently. These will typically involve writing about your work, learning how to use motion graphics terminology correctly and efficiently to describe your ideas. Be prepared to share your writing in class, as well as hand in your work via slack as a PDF document, PRIOR to the start of the class at which it is due. 

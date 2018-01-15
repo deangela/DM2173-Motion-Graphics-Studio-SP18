@@ -6,7 +6,7 @@
 
 ---
 
-**<a href="https://www.youtube.com/watch?v=Q4vWXbOLmaE" target="_blank">FINISHED NOT PERFECT</a> by Jake Parker</li>**
+**<a href="https://www.youtube.com/watch?v=Q4vWXbOLmaE" target="_blank">FINISHED NOT PERFECT</a> by Jake Parker**
 * Iteration is key.
 
 **HAVE A GOAL AND KEEP IT REALISTIC**

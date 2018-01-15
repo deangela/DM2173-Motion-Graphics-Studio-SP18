@@ -19,11 +19,11 @@
 **(After Effects) Tutorials**
 * Begin the after effect tutorials IMMEDIATELY before the semester begins so that you can absorb the material and not be distracted by your other classes. After Effects has a steep learning curve for some so I wouldn't wait to begin these tutorials. 
 
-Choose between AETUTS and Lynda.com: (I highly recommend AETUTS. It covers everything you need to know clearly and concisely.)
+**Choose between AETUTS and Lynda.com:** (I highly recommend AETUTS. It covers everything you need to know clearly and concisely.)
 
 * [AE TUTS](ae_tuts_homework.md)
 
-* **Lynda http://nyu.edu/lynda (sign in with your nyu account to get these tutorials for free)**
+* Lynda http://nyu.edu/lynda (sign in with your nyu account to get these tutorials for free)
 
 
 Do one or both of these tutorials first

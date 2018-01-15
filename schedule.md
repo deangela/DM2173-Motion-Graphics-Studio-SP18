@@ -135,6 +135,7 @@
 </tr>
 
 <tr>
+<td></td>
 <td><strong><p>Mar 28, 29, 30</p>Midterm one on one appointments</strong>
 <ul>
 <li>Schedule at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a></li>
@@ -145,6 +146,7 @@
 </tr>
 
 <tr>
+<td></td>
 <td><strong><p>Mar 30 (Fri)</p><i>Last Day to Withdraw</i></strong></td>
 </tr>
 
