@@ -52,7 +52,7 @@
 </tr>
 
 <tr>
-<td><strong>Feb 4 (Sun)</strong></td>
+<td><strong>Feb 4</strong> (Sun)</td>
 <td><strong><i>Last day to drop Spring 2018 classes and not receive a grade of "W"</i></strong></td>
 </tr>
 
@@ -67,7 +67,6 @@
     <li>Shynola's House of Jealous Lovers for The Rapture</li>
     <li>Tomorrow's Brightest Minds' MF from Hell for The Datsuns</li>
     </ul>
-<li>Rendering, Prerendering, Proxies, and Counterpoint</li>
 </ul></td>
 </tr>
 
@@ -124,22 +123,22 @@
 
 <tr>
 <td><strong>Mar 20</strong></td>
-<td><a href="projects_retro.md">Retro</a></td>
+<td><ul><li><a href="projects_retro.md">Retro</a></li></ul></td>
 </tr>
 
 <tr>
 <td><strong>Mar 27</strong></td>
 <td>
 <ul>
-<strong><li>MIDTERM: <a href="projects_retro.md">Retro</a></li></strong>
+<strong>MIDTERM: <a href="projects_retro.md">Retro</a></strong>
 <li><a href="projects_titles.md">Titles</a>: <a href="process_documentation.md">Research and Design</a></li>
 </ul>
 </td>
 </tr>
 
 <tr>
-<td>Mar 28, 29, or 30</td>
-<td><strong>Midterm one on one appointments</strong>
+<td><strong>Mar 28, 29, or 30</strong></td>
+<td><strong><i>Midterm One On One Appointments</i></strong>
 <ul>
 <li>Schedule at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a>
 <li><a href="end_of_semester_deliverables.md">Midterm Self Assessment Due</a></li>
@@ -147,7 +146,7 @@
 </tr>
 
 <tr>
-<td><strong>Mar 30 (Fri)</strong></td>
+<td><strong>Mar 30</strong> (Fri)</td>
 <td><strong><i>Last Day to Withdraw</i></strong></td>
 </tr>
 
@@ -190,11 +189,11 @@
 
 <tr>
 <td><strong>May 8</strong></td>
-<td><strong><a href="projects_demo_reel.md">Demo Reel</a></strong></td>
+<td><ul><li><a href="projects_demo_reel.md">Demo Reel</a></li></ul></td>
 </tr>
 
 <tr>
-<td>15 <strong>May 15</strong></td>
+<td><strong>May 15</strong></td>
 <td><strong>FINAL: <a href="projects_demo_reel.md">Demo Reel</a></strong></td>
 </tr>
 </table>
