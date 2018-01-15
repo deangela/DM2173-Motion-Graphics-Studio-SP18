@@ -21,7 +21,7 @@
 
 **Choose between AETUTS and Lynda.com:** (I highly recommend AETUTS. It covers everything you need to know clearly and concisely.)
 
-* [AE TUTS](ae_tuts_homework.md)
+* [AE TUTS](ae_tuts.md)
 
 * Lynda http://nyu.edu/lynda (sign in with your nyu account to get these tutorials for free)
 

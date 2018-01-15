@@ -27,9 +27,15 @@
 <ul>
 <li>Review <a href="syllabus.md">Syllabus</a></li>
 <li>Discuss <a href="success.md">Success Checklist</a></li>
-<li>Discuss <a href="https://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/after_effects_diary.html">After Effects Diary</a></li>
+<li>Discuss <a href="after_effects_diary.md">After Effects Diary</a> (aka you should be doing them throughout the semester on a weekly basis.)</li>
 <li>Discuss After Effects Tutorials: [AE TUTS](ae_tuts.md) and [http://nyu.edu/lynda](http://nyu.edu/lynda)
 <li>Discuss importance of <a href="https://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/show_and_tells.html">Show &amp; Tells</a></li>
+<li>Discuss: always post homework on slack.</li>
+<li>Discuss: Always post any videos including animatics to vimeo and then on slack.</li>
+<li>Discuss: Feedback.</li>
+<li>Discuss: studying vs. doing</li>
+<li>Discuss: Reading Moving Type and Motion Design on a weekly basis.</li>
+<li>Reinforce studying <a href="http://www.artofthetitle.com/" target="_blank">The Art of The Title</a></li>
 <li>Class Exercise: Group Word Lists for Time and Space</li>
 <li>Motion Graphics Matrix from Motion Design by Matt Woolman</li>
 <li>Motion Graphics Concepts</li>
@@ -42,12 +48,6 @@
 <td>
 <ul>
 <li><a href="show_and_tells.md">Show &amp; Tells</a></li>
-
-<li>After Effects Demo</li>
-    <ul>
-    <li><a href="http://ae.tutsplus.com/tutorials/beginner-series/after-effects-for-beginners-getting-started/" target="_blank">AETUTS: After Effects for Beginners: Getting Started</a></li>
-    <li><a href="http://ae.tutsplus.com/tutorials/beginner-series/after-effects-for-beginners-effects-animation/" target="_blank">AETUTS: After Effects for Beginners: Effects &amp; Animation</a></li>
-    </ul>
 </ul></td>
 </tr>
 
@@ -60,13 +60,13 @@
 <td><strong>Feb 6</strong></td>
 <td valign="top">
 <ul>
+<li><a href="show_and_tells.md">Show &amp; Tells</a></li>
 <li><a href="projects_overeffects.md">Over Effects</a></li>
 <li>Watch</li>
     <ul>
     <li>Shynola's House of Jealous Lovers for The Rapture</li>
     <li>Tomorrow's Brightest Minds' MF from Hell for The Datsuns</li>
     </ul>
-<li><a href="show_and_tells.md">Show &amp; Tells</a></li>
 <li>Rendering, Prerendering, Proxies, and Counterpoint</li>
 </ul></td>
 </tr>
@@ -75,16 +75,10 @@
 <td><strong>Feb 13</strong></td>
 <td>
 <ul>
-<li>Discuss <a href="success.md">Success Checklist</a></li>
+
 <li><a href="projects_overeffects.md">Over Effects</a> Redux</li>
 <li>Remaining Show &amp; Tells</li>
-<li>Discuss: always post homework on slack.</li>
-<li>Discuss: Always post any videos including animatics to vimeo and then on slack.</li>
-<li>Discuss: Feedback.</li>
-<li>Discuss: studying vs. doing</li>
-<li>Discuss: Reading Moving Type and Motion Design on a weekly basis.</li>
-<li>Reinforce studying <a href="http://www.artofthetitle.com/" target="_blank">The Art of The Title</a></li>
-<li>Discuss <a href="after_effects_diary.md">After Effects Diary</a> (aka you should be doing them throughout the semester on a weekly basis.)</li>
+
 <li><a href="process_documentation.md">Research and Design</a> for one or the other. Not both.</li>
     <ul>
     <li><a href="projects_self_portrait.md">Self-Portrait</a></li> 
@@ -107,8 +101,7 @@
 <td><strong>Feb 27</strong></td>
 <td>
 <ul><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Redux
-<li>By 10am today, list your top 3 choices for the project swap in the class channel on slack. In order of your preference, 1 being your first choice.</li>
-<li><a href="ae_tuts_homework.md">AETUTS Homework</a></li>
+<li>By noon today, list your top 3 choices for the project swap in the class channel on slack. In order of your preference, 1 being your first choice.</li>
 <li><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Swap Meet</li>
 </ul></td>
 </tr>
@@ -118,8 +111,6 @@
 <td>
 <ul>
 <li><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Swap Redux
-<ul>
-<li><a href="http://www.artofthetitle.com/feature/10-women-of-title-design-part-three/">Art of The Title celebrates Int'l Women's Day with 10 Women of Title Design – part three!</a></li>
 <li><a href="projects_retro.md">Retro</a>: <a href="process_documentation.md">Research and Design</a></li>
 </ul></td>
 </tr>
