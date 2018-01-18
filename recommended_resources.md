@@ -53,8 +53,7 @@
 
 
 ### RECOMMENDED WEB RESOURCES
-* Adobe After Effects, Illustrator & Photoshop
-http://lynda.com
+* Adobe After Effects, Illustrator & Photoshop - [http://nyu.edu/lynda](http://nyu.edu/lynda)
 * AE TUTS – http://ae.tutsplus.com
     * <a href="http://ae.tutsplus.com/tutorials/beginner-series/after-effects-for-beginners-getting-started/" target="_blank">AETUTS: After Effects for Beginners: Getting Started</a>
     * <a href="http://ae.tutsplus.com/tutorials/beginner-series/after-effects-for-beginners-effects-animation/" target="_blank">AETUTS: After Effects for Beginners: Effects & Animation</a>
@@ -63,7 +62,7 @@ http://lynda.com
 * Creative Cow Video Tutorials – http://library.creativecow.net
 * Adobe Design Center’s Video Workshop
 * Adobe Create Magazine - http://create.adobe.com/
-http://greyscalegorilla.com/intro-to-cinema-4d
+* Greyscale Gorilla - http://greyscalegorilla.com/intro-to-cinema-4d
 * AE Scripts/AE Plugins – http://aescripts.com
 
 **Motion Graphics**
