@@ -19,21 +19,29 @@
 * No one will teach you better than you can teach yourself. Technology moves at a very fast pace and what you know today may not, and chances are will not, be enough tomorrow. Learn to not only “how to learn” but also how to seek out what is out there that may be worth learning - ie: new software, plugins, techniques, inspirations. 
 
 **USE YOUR RESOURCES** 
-* The Internet is the quickest access to information you have, but don’t forget that books and magazines offer a wealth of info and inspiration. Also, study and do your projects outside of class together. 
+* The Internet is the quickest access to information you have, but don’t forget that books and magazines offer a wealth of info and inspiration. 
+
+**DO NOT DO YOUR HOMEWORK ALONE**
+Study and do your projects outside of class together. Find a homework partner or group who you can bounce ideas off of, hold feedback sessions, and help you resolve any issues that may occur.  
 
 **GET OUT OF YOUR OWN HEAD** 
 * If you do not constantly look at the work of others, you will never grow as a designer as you'll only regurgitate what you are currently capable of. Continuous improvement, not perfection, is the goal. 
 
 **RESEARCH AND DEVELOP YOUR IDEA** 
 * Do that before diving in head first into the project! Consider all of the following questions before you settle on a direction:
-    * What is your objective? Who is your intended audience?
-    * Are there cultural/social/historical/creative context you need to be aware of?
-    * Why should anyone care about what you have to say?
-    * How can you convince them of this visually?
-    * Is your aesthetic direction conducive to communicating your idea? Or are your design choices taking away from the concept? How will your initial concepts of use of time/space, composition, color, use of shapes/images/type/audio will contribute to the overall project? Why are you making the visual choices you are making? 
+    * Why do you want to make this? What is your motivation?
+    * What is the goal of your project? 
+    * Who is your intended audience? Why should they care? What do you want them to experience? How do you want them to feel? What do you want them to learn?
+    * Are there cultural/social/historical/creative contexts you need to research?
+    * How will you use the synthesis of time and space (composition, color, point/line/shapes/images/type/audio) to communicate your idea? 
+    * What's driving your visual choices? 
+    * What's driving your aural choices?
+    * What's dreiving your temporal (time) choices? 
 
 **CONSIDER ALL ASPECTS OF THE DESIGN** 
 * Color, composition, typography, pacing, rhythm, contrast, tension etc. Try to keep in mind the total vision and how each component affects it, at all times! 
+
+**[FINISHED NOT PERFECT](https://www.youtube.com/watch?v=lRtV-ugIT0k)**  by Jake Parker
 
 **GIVE CONSTRUCTIVE FEEDBACK DURING CRITIQUES**
 * Your feedback is vital to the growth of your classmates as well as your OWN creative
