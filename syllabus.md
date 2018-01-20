@@ -5,7 +5,6 @@
 ```
 De Angela L. Duff • deangela.duff@nyu.edu • Spring 2018 
 Tuesdays 12:30 PM - 4:10 PM • 2MTC MAGNET 813 • 3 credit hrs
-Office hours by appointment (https://calendly.com/deangela) or directly after class 
 Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718 
 
 Prerequisite: DM-UY 1123 Visual Foundation Studio
@@ -14,6 +13,8 @@ Prerequisite: DM-UY 1123 Visual Foundation Studio
 #### Gitbook Repository: [http://deangela.gitbooks.io/motion-graphics-studio-spring-2018/content/](http://deangela.gitbooks.io/motion-graphics-studio-spring-2018/content/)
 
 #### Course Management Site: [http://bxmc.slack.com](http://bxmc.slack.com)
+
+####  Office hours by appointment through [https://calendly.com/deangela](https://calendly.com/deangela) or directly after class 
 
 ---
 
