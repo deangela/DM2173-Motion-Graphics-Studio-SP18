@@ -29,9 +29,8 @@
     <ul>
     <li><a href="success.md">Success Checklist</a></li>
     <li><a href="after_effects_diary.md">After Effects Diary</a> (aka you should be doing them throughout the semester on a weekly basis.)</li>
-    <li>After Effects Tutorials: [AE TUTS](ae_tuts.md) and [http://nyu.edu/lynda](http://nyu.edu/lynda)
-    <li>Discuss importance of <a href="https://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/show_and_tells.html">Show &amp; Tells</a></li>
-    <li>Always post homework on slack.</li>
+    <li>After Effects Tutorials: <a href="ae_tuts.md">AE TUTS</a> and<a href="http://nyu.edu/lynda">http://nyu.edu/lynda</a>
+    <li>Importance of <a href="https://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/show_and_tells.html">Show &amp; Tells</a></li>
     <li>Always post any videos including animatics to vimeo and then post the URL on slack.</li>
     <li>Studio Critique AKA Feedback</li>
     <li>Studying vs. doing</li>
