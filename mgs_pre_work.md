@@ -17,11 +17,11 @@
 * Begin the after effect tutorials IMMEDIATELY before the semester begins so that you can absorb the material and not be distracted by your other classes. After Effects has a steep learning curve for some so I wouldn't wait to begin these tutorials. 
 
 **Required Book**
-* Purchase **Moving Type: Designing for Time and Space** by Matt Woolman & Jeff Bellantoni OR **Motion Design** by Matt Woolman. Both are out of print, but purchase whichever is cheaper on amazon.com or half.com. Do not buy both. There are many on Amazon that will be anywhere from $4 to $21 including shipping.
+* **Moving Type: Designing for Time and Space** by Matt Woolman & Jeff Bellantoni OR **Motion Design** by Matt Woolman. Both are out of print, but purchase whichever is cheaper on amazon.com, ebay.com, etc. Do not buy both. There are many on Amazon that will be anywhere from $4 to $21 including shipping.
     * [Amazon: Moving Type](https://www.amazon.com/Moving-Type-Designing-Time-Space/dp/2880463696/ref=sr_1_1?ie=UTF8&qid=1484081727&sr=8-1&keywords=moving+type) 
-    * [Half.com: Moving Type](http://product.half.ebay.com/Type-in-Motion-Innovations-in-Digital-Graphics-by-Matt-Woolman-and-Jeff-Bellantoni-1999-Hardcover/1127478&tg=info)
-
-For whatever reason, Motion Design is always more expensive than Moving Type but they are essentially the same book. So again whichever you can find cheaper and do not buy both.
+    * [Ebay.com: Moving Type](https://www.ebay.com/sch/i.html?_productid=1780550&rt=nc&_pmc=true&_sop=15&isRefine=true&LH_ItemCondition=3000%7C4000%7C5000%7C6000&sl_ready=true&_fosrp=1)
+* For whatever reason, Motion Design is alwasys more expensive than Moving Type but they are essentially the same book. So again whichever you can find cheaper.
+* Motion Design will be placed on course reserves in the Bobst Library.
 
 **Slack Invite (http://bxmc.slack.com)**
 * You will be receiving an invitation from Slack by or before Jan. 23rd. Please accept it. I have to manually enter you to the mgs slack channel. Please be patient.
