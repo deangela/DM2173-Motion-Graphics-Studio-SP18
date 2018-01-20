@@ -160,10 +160,11 @@ You MUST have complete rights of use to any and all materials which appear in yo
 If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu. You must be registered with CSD to receive accommodations. Information about the Moses Center can be found at www.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor.
 
 ### REQUIRED BOOK
-* **Moving Type: Designing for Time and Space** by Matt Woolman & Jeff Bellantoni or **Motion Design** by Matt Woolman. Both are out of print, but purchase whichever is cheaper on amazon.com or half.com. Do not buy both. There are many on Amazon that will be anywhere from $4 to $21 including shipping.
+* **Moving Type: Designing for Time and Space** by Matt Woolman & Jeff Bellantoni OR **Motion Design** by Matt Woolman. Both are out of print, but purchase whichever is cheaper on amazon.com, ebay.com, etc. Do not buy both. There are many on Amazon that will be anywhere from $4 to $21 including shipping.
     * [Amazon: Moving Type](https://www.amazon.com/Moving-Type-Designing-Time-Space/dp/2880463696/ref=sr_1_1?ie=UTF8&qid=1484081727&sr=8-1&keywords=moving+type) 
-    * [Half.com: Moving Type](http://product.half.ebay.com/Type-in-Motion-Innovations-in-Digital-Graphics-by-Matt-Woolman-and-Jeff-Bellantoni-1999-Hardcover/1127478&tg=info)
+    * [Ebay.com: Moving Type](https://www.ebay.com/sch/i.html?_productid=1780550&rt=nc&_pmc=true&_sop=15&isRefine=true&LH_ItemCondition=3000%7C4000%7C5000%7C6000&sl_ready=true&_fosrp=1)
 * For whatever reason, Motion Design is alwasys more expensive than Moving Type but they are essentially the same book. So again whichever you can find cheaper.
+* Motion Design will be placed on course reserves in the Bobst Library.
 
 ### REQUIRED SUPPLIES
 
@@ -189,21 +190,20 @@ All projects should be arranged as follows:
 * SOURCE (for all of your source files, you may organize your own structure within depending on the needs of your project)(after effects, illustrator, photoshop, etc). Make sure that any type in illustrator has been converted to outlines
 * DESIGN (for all of your storyboards and style frame comps)
 * DRAFTS (for all elements submitted for critiques)
-* FINAL 
-I will not require any further specific breakdowns. It will be up to you how to organize your project files efficiently. Do keep in mind that I WILL see your project folders as part of the final deliverables and you will be graded on your professionalism - part of which is your ability to efficiently & neatly organize & maintain your assets.
+* FINAL (I will not require any further specific breakdowns. It will be up to you how to organize your project files efficiently. Do keep in mind that I WILL see your project folders as part of the final deliverables and you will be graded on your professionalism - part of which is your ability to efficiently & neatly organize & maintain your assets.)
 
 
 ### FILE NAMING
 (format dates as MonthDay: MMDDYY)
 
 All PDFs should be labeled as follows: 
-* FirstnameLastname_assignmentName_date.pdf 
+* FirstnameLastname_assignmentName.pdf 
 
 All videos should be labeled as follows: 
 * FirstnameLastname_assignmentName_date 
 
 All REVISED videos AND WRITTEN DOCS should be labeled as follows: 
-* FirstnameLastname_assignmentNameREV#_date (OR .pdf)
+* FirstnameLastname_assignmentNameREV#_date 
 * Follow the pattern for iterations of revisions, REV2, REV3, etc. i.e. deangeladuff_demoreel3_010217) 
 
 
