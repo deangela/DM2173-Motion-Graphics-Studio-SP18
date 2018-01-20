@@ -19,6 +19,7 @@ Specifications:
 encouraged 
     * reference Moving Type 40-41 or Motion Design 038-039
 * Audio is required.
+* FOCUS ON: Communicating personality and emotions
 
 **Self-Portrait Redux** 5 seconds
 

@@ -10,6 +10,7 @@
 * FOCUS ON: Creating a “signature” piece, which can brand your work! The goal is to wind up with an intro/outro for the demo reel you’ll edit together as part of your course final.
 * You may use your logo from Visual Foundation Studio if a personal logo was one of your assignments.
 
+
 **End Tag Redux** up to 5 seconds	
 * Iterate the previous assignment.
 

@@ -12,6 +12,8 @@
 
 for a personal project created by you or someone you know.
 
+* FOCUS ON: Communicating a brand
+
 **Opening and End Titles Redux** up to 6 seconds each  
 * Iterate the previous assignment.
 

@@ -20,6 +20,7 @@ Specifications:
 encouraged 
     * reference Moving Type 40-41 or Motion Design 038-039
 * Audio is required.
+* FOCUS ON: Communicating the concepts and emotions the song evokes
 
 **Song Intonation Redux**   5 seconds  
 

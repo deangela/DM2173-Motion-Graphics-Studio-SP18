@@ -16,12 +16,13 @@ The purpose of this assignment is to exhaustively explore all of the effects in 
 * Use multiple effects and filters to remove the imagery from its initial recognizability, and take it toward an abstract, emotional realm
 * Consider the limitations of using given/effects, the value of combining several effects, and the process of indulging in the program’s capabilities by deliberately overusing effects.
 * **Alter the sound using After Effects’ audio effects**
+* FOCUS ON: Going Crazy or Cheesy with Exploration and Experimentation
 
 **Overeffects: Place Redux** each video will be 15 seconds	
 * Iterate the previous assignment to be deliberate in your effects and transitions. 15 seconds. Render as a separate file and upload to vimeo.
 * Iterate the previous assignment to have more scenes (changes) and transitions. Experiment with the image, effects, and audio more. 15 seconds. Render as a separate file and upload to vimeo.
 * The two videos should be opposites. One should be thoughtful and the other wild, crazy, wacky, and experimental.
-
+* FOCUS ON: Refinement and Taste
 
 
 ---
