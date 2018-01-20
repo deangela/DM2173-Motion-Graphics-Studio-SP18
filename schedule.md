@@ -27,6 +27,7 @@
 <li>Review <a href="syllabus.md">Syllabus</a></li>
 <li>Discuss</li> 
     <ul>
+    <li><a href="https://drive.google.com/drive/folders/1g_399hghxJb0ayg44Hj6pvXCB3k5rM42?usp=sharing">Letters from the last cohort</a></li>
     <li><a href="success.md">Success Checklist</a></li>
     <li><a href="after_effects_diary.md">After Effects Diary</a> (aka you should be doing them throughout the semester on a weekly basis.)</li>
     <li>After Effects Tutorials: <a href="ae_tuts.md">AE TUTS</a> and<a href="http://nyu.edu/lynda">http://nyu.edu/lynda</a>
