@@ -14,44 +14,44 @@
 ---
 
 **Abstract Animation / Intonation Pioneers**
-* **Oskar Fischinger** (Alexis Z.)
+* **Oskar Fischinger** ()
 
 **Film Titling**
-* **Kyle Cooper / Prologue Films / Imaginary Forces** (Larysa)
+* **Kyle Cooper / Prologue Films / Imaginary Forces** ()
 (Seven, Spiderman, The Mummy, Sphere, etc)
-* **Garson Yu / yU+co** (Chrystal)
+* **Garson Yu / yU+co** ()
 (mission impossible, unfaithful, hulk, the italian job, etc)
-* **Saul Bass** (Cadence)
+* **Saul Bass** ()
 (Psycho, Casino, West Side Story, GoodFellas, Cape Fear, etc)
-* **Pablo Ferro** (Bonnie)
+* **Pablo Ferro** ()
 (Bullit, Thomas Crown Affair, Dr. Strangelove, To Die For, Men In Black)
-* **R/GA** (Tim)
+* **R/GA** ()
 (superman, aliens, blowout, garp, gandhi, ghostbusters, predator, etc.)
-* Maurice Binder
+* **Maurice Binder**
 (early James Bond)
-* **Marlene McCarty** (Pooja)
+* **Marlene McCarty** ()
 (I’m Not There, Office Killer, Ice Storm, American Psycho, Velvet Goldmine, etc)
 
 **Broadcast Design**
 * **Psyop** (Calvin)
 (VH1, ESPN, Ford, Starbucks, Fox Nascar, AT&T, Samsung, etc)
-* **Digital Kitchen** (Jason)
+* **Digital Kitchen** ()
 (Dexter, Six Feet Under, Budweiser, Cartoon Network, Target, etc)
-* **Logan (logan.tv)** (Hillary)
+* **Logan (logan.tv)** ()
 (Apple, Volkswagon, Gap, etc)
-* **Trollbäck and Company** (Fannie)
+* **Trollbäck and Company** ()
 (AMC and TNT Network Identities, Monsoon Wedding (film), etc)
 * **Troika Design Group** (Orlando) (documentary on [Lynda](http://nyu.edu/lynda))
 (ABC, UPN, ESPN, E!, Fox, MTV, VH1, Style, Comedy Central, etc)
-* **Los York** (Angela)
+* **Los York** ()
 (Honda, Pepsi, HP, Nokia, MAC Cosmetics, Microsoft, etc.)
 
 **Music Video**
-* **Shynola** (Akash)
+* **Shynola** ()
 (radiohead, unkle, the rapture, queens of the stone age, blur, etc)
-* **Michel Gondry** (Alexis T.)
+* **Michel Gondry** ()
 (Bjork, The White Stripes, Beck, Daft Punk, Chemical Brothers, etc)
 
 **Motion Graphics**
-* **MK12** (Corinna)
+* **MK12** ()
 (Typography, Animation, and Music Videos)
