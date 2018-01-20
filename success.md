@@ -22,7 +22,7 @@
 * The Internet is the quickest access to information you have, but don’t forget that books and magazines offer a wealth of info and inspiration. 
 
 **DO NOT DO YOUR HOMEWORK ALONE**
-Study and do your projects outside of class together. Find a homework partner or group who you can bounce ideas off of, hold feedback sessions, and help you resolve any issues that may occur.  
+* Study and do your projects outside of class together. Find a homework partner or group who you can bounce ideas off of, hold feedback sessions, and help you resolve any issues that may occur.  
 
 **GET OUT OF YOUR OWN HEAD** 
 * If you do not constantly look at the work of others, you will never grow as a designer as you'll only regurgitate what you are currently capable of. Continuous improvement, not perfection, is the goal. 
@@ -36,12 +36,10 @@ Study and do your projects outside of class together. Find a homework partner or
     * How will you use the synthesis of time and space (composition, color, point/line/shapes/images/type/audio) to communicate your idea? 
     * What's driving your visual choices? 
     * What's driving your aural choices?
-    * What's dreiving your temporal (time) choices? 
+    * What's driving your temporal (time) choices? 
 
 **CONSIDER ALL ASPECTS OF THE DESIGN** 
 * Color, composition, typography, pacing, rhythm, contrast, tension etc. Try to keep in mind the total vision and how each component affects it, at all times! 
-
-**[FINISHED NOT PERFECT](https://www.youtube.com/watch?v=lRtV-ugIT0k)**  by Jake Parker
 
 **GIVE CONSTRUCTIVE FEEDBACK DURING CRITIQUES**
 * Your feedback is vital to the growth of your classmates as well as your OWN creative
