@@ -26,21 +26,22 @@
 <ul>
 <li>Review <a href="syllabus.md">Syllabus</a></li>
 <li>Discuss</li> 
-<ul><li><a href="success.md">Success Checklist</a></li>
-<li>Discuss <a href="after_effects_diary.md">After Effects Diary</a> (aka you should be doing them throughout the semester on a weekly basis.)</li>
-<li>Discuss After Effects Tutorials: [AE TUTS](ae_tuts.md) and [http://nyu.edu/lynda](http://nyu.edu/lynda)
-<li>Discuss importance of <a href="https://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/show_and_tells.html">Show &amp; Tells</a></li>
-<li>Discuss: always post homework on slack.</li>
-<li>Discuss: Always post any videos including animatics to vimeo and then on slack.</li>
-<li>Discuss: Feedback.</li>
-<li>Discuss: studying vs. doing</li>
-<li>Discuss: Reading Moving Type and Motion Design on a weekly basis.</li>
-<li>Reinforce studying <a href="http://www.artofthetitle.com/" target="_blank">The Art of The Title</a></li>
-<li>Class Exercise: Group Word Lists for Time and Space</li>
-<li>Motion Graphics Matrix from Motion Design by Matt Woolman</li>
-<li>Motion Graphics Concepts</li>
-<li>16:9 Aspect Ratio</li>
-</ul>
+    <ul>
+    <li><a href="success.md">Success Checklist</a></li>
+    <li><a href="after_effects_diary.md">After Effects Diary</a> (aka you should be doing them throughout the semester on a weekly basis.)</li>
+    <li>After Effects Tutorials: [AE TUTS](ae_tuts.md) and [http://nyu.edu/lynda](http://nyu.edu/lynda)
+    <li>Discuss importance of <a href="https://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/show_and_tells.html">Show &amp; Tells</a></li>
+    <li>Always post homework on slack.</li>
+    <li>Always post any videos including animatics to vimeo and then post the URL on slack.</li>
+    <li>Studio Critique AKA Feedback</li>
+    <li>Studying vs. doing</li>
+    <li>Reading Moving Type and Motion Design on a weekly basis.</li>
+    <li>Reinforce studying <a href="http://www.artofthetitle.com/" target="_blank">The Art of The Title</a></li>
+    <li>Class Exercise: Group Word Lists for Time and Space</li>
+    <li>Motion Graphics Matrix from Motion Design by Matt Woolman</li>
+    <li>Motion Graphics Concepts</li>
+    <li>16:9 Aspect Ratio</li>
+    </ul>
 </ul></td>
 </tr>
 
