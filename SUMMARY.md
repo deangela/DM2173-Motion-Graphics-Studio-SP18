@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
 * [Syllabus](syllabus.md)
 * [Schedule](schedule.md)
 * [Recommended Resources](recommended_resources.md)
