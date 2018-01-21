@@ -12,7 +12,7 @@
 * **I only want students in the class who really want to create amazing work and will push themselves to do so.**
 
 **Letters To The Next Cohort**
-You can find letters to you from the previous students who took the course. If you do not want to read all of them, I highly recommended you read the first four which are numbered. You can only access the following drive with an NYU account.
+* You can find letters to you from the previous students who took the course. If you do not want to read all of them, I highly recommended you read the first four which are numbered. You can only access the following drive with an NYU account.
 https://drive.google.com/drive/folders/1g_399hghxJb0ayg44Hj6pvXCB3k5rM42?usp=sharing
 
 **Syllabus**
