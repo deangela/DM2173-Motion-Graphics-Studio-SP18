@@ -16,44 +16,44 @@
 ---
 
 **Abstract Animation / Intonation Pioneers**
-* **Oskar Fischinger** ()
+* **Oskar Fischinger** (Radeniyi)
 
 **Film Titling**
 * **Kyle Cooper / Prologue Films / Imaginary Forces** ()
 (Seven, Spiderman, The Mummy, Sphere, etc)
-* **Garson Yu / yU+co** ()
+* **Garson Yu / yU+co** (Alex)
 (mission impossible, unfaithful, hulk, the italian job, etc)
-* **Saul Bass** ()
+* **Saul Bass** (Sharon)
 (Psycho, Casino, West Side Story, GoodFellas, Cape Fear, etc)
 * **Pablo Ferro** ()
 (Bullit, Thomas Crown Affair, Dr. Strangelove, To Die For, Men In Black)
-* **R/GA** ()
+* **R/GA** (Grace)
 (superman, aliens, blowout, garp, gandhi, ghostbusters, predator, etc.)
-* **Maurice Binder**
+* **Maurice Binder** (Lucas)
 (early James Bond)
 * **Marlene McCarty** ()
 (I’m Not There, Office Killer, Ice Storm, American Psycho, Velvet Goldmine, etc)
 
 **Broadcast Design**
-* **Psyop** (Calvin)
+* **Psyop** (Sarah)
 (VH1, ESPN, Ford, Starbucks, Fox Nascar, AT&T, Samsung, etc)
-* **Digital Kitchen** ()
+* **Digital Kitchen** (mcpnicolas)
 (Dexter, Six Feet Under, Budweiser, Cartoon Network, Target, etc)
-* **Logan (logan.tv)** ()
+* **Logan (logan.tv)** (Samir)
 (Apple, Volkswagon, Gap, etc)
-* **Trollbäck and Company** ()
+* **Trollbäck and Company** (Justin)
 (AMC and TNT Network Identities, Monsoon Wedding (film), etc)
-* **Troika Design Group** (Orlando) (documentary on [Lynda](http://nyu.edu/lynda))
+* **Troika Design Group** (whatwouldjennydu) (documentary on [Lynda](http://nyu.edu/lynda))
 (ABC, UPN, ESPN, E!, Fox, MTV, VH1, Style, Comedy Central, etc)
-* **Los York** ()
+* **Los York** (Yahya)
 (Honda, Pepsi, HP, Nokia, MAC Cosmetics, Microsoft, etc.)
 
 **Music Video**
 * **Shynola** ()
 (radiohead, unkle, the rapture, queens of the stone age, blur, etc)
-* **Michel Gondry** ()
+* **Michel Gondry** (Priyana)
 (Bjork, The White Stripes, Beck, Daft Punk, Chemical Brothers, etc)
 
 **Motion Graphics**
-* **MK12** ()
+* **MK12** (Ali)
 (Typography, Animation, and Music Videos)
