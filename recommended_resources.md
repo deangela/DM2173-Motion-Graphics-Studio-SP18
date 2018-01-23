@@ -96,7 +96,10 @@ http://www.gomediazine.com/industry-insights/28-staple-blogs-motion-graphic-arti
 * T-26 fonts – http://t26.com
 * House Industries – http://houseindustries.com
 
-**THERE ARE TONS OF FREE FONT RESOURCES ON THE WEB. DONT FORGET ABOUT [TYPEKIT](https://typekit.com) AND [SKYFONTS](http://skyfonts.com/)!** 
+**THERE ARE TONS OF FREE FONT RESOURCES ON THE WEB. DONT FORGET ABOUT** 
+* [Lost Type](http://losttype.com)
+* [TYPEKIT](https://typekit.com) 
+* [SKYFONTS](http://skyfonts.com/) 
 
 **Animatic**
   * [http://www.artofthetitle.com/title/six-feet-under/](http://www.artofthetitle.com/title/six-feet-under/)

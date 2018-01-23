@@ -140,7 +140,7 @@
 <td><strong>Mar 28, 29, or 30</strong></td>
 <td><strong><i>Midterm One On One Appointments</i></strong>
 <ul>
-<li>Schedule at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a>
+<li>Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a>
 <li><a href="end_of_semester_deliverables.md">Midterm Self Assessment Due</a></li>
 </ul></td>
 </tr>
@@ -185,6 +185,7 @@
 <li><a href="projects_endtag.md">End Tag</a> Redux</li>
 <li><a href="projects_demoreel.md">Demo Reel</a>: <a href="process_documentation.md">Research and Design</a></li>
 </ul>
+</td>
 </tr>
 
 <tr>
