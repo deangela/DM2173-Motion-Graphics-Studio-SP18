@@ -49,7 +49,7 @@
 <td><strong>Jan 30</strong></td>
 <td>
 <ul>
-<li><a href="show_and_tells.md">Show &amp; Tells</a></li>
+<li><a href="show_and_tells.md">Show &amp; Tells / Reverse Storyboards</a></li>
 </ul></td>
 </tr>
 
