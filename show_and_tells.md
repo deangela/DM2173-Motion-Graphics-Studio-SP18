@@ -13,15 +13,15 @@
 * Try to obtain hi-res footage if at all possible.
 
 There are 3 parts to this assignment: 
-**SHOW**
-* Show work to the class from your selected company or motion designer in the form of a reel OR 3 examples of their work aka **Show &amp Tell**. This can just be a link to the reel or links to at least 3 projects of your chosen company or motion designer. 
-**TELL**
-* Be familiar with a brief bio and be prepared to CRITICALLY discuss your assigned artist, designer, director, filmmaker, or company and their supporting footage in front of the class
-**REVERSE STORYBOARD**
-* Select one of the 3 examples of their work to reverse storyboard, by getting **screenshots** of three key frames. 
-* Analyze these key frames using vocabulary from Motion Design by Matt Woolman. 
-* **Upload this reverse storyboard as a pdf with the 3 screenshots and written analysis to the MGS slack channel.**
-* Be prepared to also show and discuss your reverse storyboard in class.
+* **SHOW**
+    * Show work to the class from your selected company or motion designer in the form of a reel OR 3 examples of their work aka **Show &amp Tell**. This can just be a link to the reel or links to at least 3 projects of your chosen company or motion designer. 
+* **TELL**
+    * Be familiar with a brief bio and be prepared to CRITICALLY discuss your assigned artist, designer, director, filmmaker, or company and their supporting footage in front of the class
+* **REVERSE STORYBOARD**
+    * Select one of the 3 examples of their work to reverse storyboard, by getting **screenshots** of three key frames. 
+    * Analyze these key frames using vocabulary from Motion Design by Matt Woolman. 
+    * **Upload this reverse storyboard as a pdf with the 3 screenshots and written analysis to the MGS slack channel.**
+    * Be prepared to also show and discuss your reverse storyboard in class.
 
 ---
 
