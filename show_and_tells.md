@@ -19,44 +19,47 @@
 * **Oskar Fischinger** (Radeniyi)
 
 **Film Titling**
-* **Kyle Cooper / Prologue Films / Imaginary Forces** (Raj)
-    * (Seven, Spiderman, The Mummy, Sphere, etc)
-* **Garson Yu / yU+co** (Alex)
-    * (mission impossible, unfaithful, hulk, the italian job, etc)
 * **Saul Bass** (Sharon)
     * (Psycho, Casino, West Side Story, GoodFellas, Cape Fear, etc)
 * **Pablo Ferro** (Kevin)
     * (Bullit, Thomas Crown Affair, Dr. Strangelove, To Die For, Men In Black)
-* **R/GA** (Grace)
-    * (superman, aliens, blowout, garp, gandhi, ghostbusters, predator, etc.)
-* **Maurice Binder** (Lucas)
-    * (early James Bond)
+* **Kyle Cooper / Prologue Films / Imaginary Forces** (Raj)
+    * (Seven, Spiderman, The Mummy, Sphere, etc)
+* **Garson Yu / yU+co** (Alex)
+    * (mission impossible, unfaithful, hulk, the italian job, etc)
 * **Marlene McCarty** (Yaming)
     * (I’m Not There, Office Killer, Ice Storm, American Psycho, Velvet Goldmine, etc)
+* **Maurice Binder** (Lucas)
+    * (early James Bond)
+* **R/GA** (Grace)
+    * (superman, aliens, blowout, garp, gandhi, ghostbusters, predator, etc.)
 
 **Broadcast Design**
-* **Psyop** (Sarah)
-    * (VH1, ESPN, Ford, Starbucks, Fox Nascar, AT&T, Samsung, etc)
+
 * **Digital Kitchen** (mcpnicolas)
     * (Dexter, Six Feet Under, Budweiser, Cartoon Network, Target, etc)
 * **Logan (logan.tv)** (Samir)
     * (Apple, Volkswagon, Gap, etc)
-* **Trollbäck and Company** (Justin)
-    * (AMC and TNT Network Identities, Monsoon Wedding (film), etc)
-* **Troika Design Group** (whatwouldjennydu) (documentary on [Lynda](http://nyu.edu/lynda))
-    * (ABC, UPN, ESPN, E!, Fox, MTV, VH1, Style, Comedy Central, etc)
 * **Los York** (Yahya)
     * (Honda, Pepsi, HP, Nokia, MAC Cosmetics, Microsoft, etc.)
+* **Psyop** (Sarah)
+    * (VH1, ESPN, Ford, Starbucks, Fox Nascar, AT&T, Samsung, etc)
+* **Troika Design Group** (whatwouldjennydu) (documentary on [Lynda](http://nyu.edu/lynda))
+    * (ABC, UPN, ESPN, E!, Fox, MTV, VH1, Style, Comedy Central, etc)
+* **Trollbäck and Company** (Justin)
+    * (AMC and TNT Network Identities, Monsoon Wedding (film), etc)
 
 **Music Video**
-* **Shynola** (Joyce)
-    * (radiohead, unkle, the rapture, queens of the stone age, blur, etc)
 * **Michel Gondry** (Priyana)
     * (Bjork, The White Stripes, Beck, Daft Punk, Chemical Brothers, etc)
+* **Shynola** (Joyce)
+    * (radiohead, unkle, the rapture, queens of the stone age, blur, etc)
+
 
 **Motion Graphics**
 * **MK12** (Ali)
     * (Typography, Animation, and Music Videos)
 
-**Ash Thorp** (Ryan)
-**Hornet** (Miki)
+
+* **Ash Thorp** (Ryan)
+* **Hornet** (Miki)
