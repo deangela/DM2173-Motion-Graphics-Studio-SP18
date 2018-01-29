@@ -8,8 +8,8 @@
 
 * You will either volunteer for or be assigned from the list below or discuss an alternate choice that is not on the list with the professor. 
 * After quickly researching [the choices](https://deangela.gitbooks.io/motion-graphics-studio-spring-2018/content/show_and_tells.html), please post on the class main slack channel, mgs_sp18, your show and tell choice. First come first serve.
-* During the preceding week, the show & tell(s) that will be due the following week will be announced. 
-* Bring in at least 3 or more (or a reel) examples of the work of your chosen artist, designer, director, filmmaker, or company on video or DVD or as digitized footage (i.e. quicktime). Try to obtain hi-res footage if at all possible.
+* Show and tells are due on the date listed on the course [schedule](schedule.md).
+* Show a reel OR at least 3 examples of work of your chosen artist, designer, director, filmmaker, or company. Try to obtain hi-res footage if at all possible. Make sure you use the *designers + studios*  dropdown menu at the top of the [Art Of The Title](http://www.artofthetitle.com) website to do research for your show and tell. ALMOST all of them should be there.
 * Be familiar with a brief bio and be prepared to CRITICALLY discuss your assigned artist, designer, director, filmmaker, or company and their supporting footage in a dynamic presentation in front of the class
 * Select one of the 3 examples of their work to reverse storyboard, by getting screenshots of three key frames. Analyze these key frames using vocabulary from Motion Design by Matt Woolman. **Upload this reverse storyboard as a pdf with the 3 screenshots and written analysis to the MGS slack channel.**
 
