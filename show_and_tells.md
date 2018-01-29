@@ -19,19 +19,19 @@
 * **Oskar Fischinger** (Radeniyi)
 
 **Film Titling**
-* **Kyle Cooper / Prologue Films / Imaginary Forces** ()
+* **Kyle Cooper / Prologue Films / Imaginary Forces** (Raj)
 (Seven, Spiderman, The Mummy, Sphere, etc)
 * **Garson Yu / yU+co** (Alex)
 (mission impossible, unfaithful, hulk, the italian job, etc)
 * **Saul Bass** (Sharon)
 (Psycho, Casino, West Side Story, GoodFellas, Cape Fear, etc)
-* **Pablo Ferro** ()
+* **Pablo Ferro** (Kevin)
 (Bullit, Thomas Crown Affair, Dr. Strangelove, To Die For, Men In Black)
 * **R/GA** (Grace)
 (superman, aliens, blowout, garp, gandhi, ghostbusters, predator, etc.)
 * **Maurice Binder** (Lucas)
 (early James Bond)
-* **Marlene McCarty** ()
+* **Marlene McCarty** (Yaming)
 (I’m Not There, Office Killer, Ice Storm, American Psycho, Velvet Goldmine, etc)
 
 **Broadcast Design**
@@ -49,7 +49,7 @@
 (Honda, Pepsi, HP, Nokia, MAC Cosmetics, Microsoft, etc.)
 
 **Music Video**
-* **Shynola** ()
+* **Shynola** (Joyce)
 (radiohead, unkle, the rapture, queens of the stone age, blur, etc)
 * **Michel Gondry** (Priyana)
 (Bjork, The White Stripes, Beck, Daft Punk, Chemical Brothers, etc)
@@ -57,3 +57,6 @@
 **Motion Graphics**
 * **MK12** (Ali)
 (Typography, Animation, and Music Videos)
+
+**Ash Thorp** (Ryan)
+**Hornet** (Miki)
