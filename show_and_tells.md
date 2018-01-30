@@ -10,6 +10,7 @@
 * You will either volunteer for or be assigned from the list below or discuss an alternate choice that is not on the list with the professor. 
 * After quickly researching the choices, please post on the class main slack channel, mgs_sp18, your show and tell choice. First come first serve.
 * Make sure you take advantage of using the *designers + studios*  dropdown menu at the top of the [Art Of The Title](http://www.artofthetitle.com) website to do research for your show and tell. ALMOST all of them should be there. Not all of them will be there.
+* Make sure you take advantage of watching [documentaries and creative inspirations](https://www.lynda.com/Documentaries/) of motion designers and motion graphic firms by logging into [http://nyu.edu/lynda](http://nyu.edu/lynda) first. 
 * Try to obtain hi-res footage if at all possible.
 
 There are 3 parts to this assignment: 
@@ -73,3 +74,4 @@ There are 3 parts to this assignment:
 
 * **Ash Thorp** (Ryan)
 * **Hornet** (Miki)
+* **Paul Kim** (Darren)
