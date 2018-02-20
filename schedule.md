@@ -194,8 +194,14 @@
 </tr>
 
 <tr>
-<td><strong>May 15</strong></td>
+<td><strong>May 9, 10, 11, or 14</strong></td>
+<td><strong><i>Final One On One Appointments</i></strong><br>
+Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a>
+<ul>
+<li><a href="end_of_semester_deliverables.md">End of Semester Deliverables</a></li>
+<li><a href="self_assessments.md">Final Self Assessment Due</a></li>
 <td><strong>FINAL: <a href="projects_demo_reel.md">Demo Reel</a></strong></td>
+</ul></td>
 </tr>
 </table>
 

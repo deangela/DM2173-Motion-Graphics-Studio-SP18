@@ -6,6 +6,8 @@
 
 ---
 
+**Always post your process documentation to the main mgs slack channel.**
+
 Your process, the steps you take to visually and aurally conceptualize your final project, needs to be documented for evaluation. 
 
 ### THE DESIGN PROCESS
