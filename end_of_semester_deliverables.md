@@ -9,6 +9,7 @@
 ### Create a google drive folder labeled "MGS Spring 2018 your first and last name" (i.e. MGS Spring 2018 De Angela Duff) and share with deangela.duff@nyu.edu
 
 with a correpsponding folder for the following projects with their corresponding files.
+* overeffects
 * self-portrait or song intonation
 * midterm retro
 * titles
